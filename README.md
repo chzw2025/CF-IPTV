@@ -9,7 +9,7 @@
    ```bash
    bash <(curl -sS https://fdtv.dxjc.pp.ua//setup_hkdvb.sh)
 
-1. (openwrt)下载赋权并安装脚本：
+1. (openwrt或nas等本地设备 )下载赋权并安装脚本：
    ```bash
    bash <(wget -qO- https://fdtv.dxjc.pp.ua/openwrtlive.sh)
 
