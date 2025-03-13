@@ -182,27 +182,6 @@ https://tmxk.serv00.net/litv.php?id=4gtv-4gtv155
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="香港",翡翠台
 https://cdn3.163189.xyz/live/fct/stream.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文
-http://cdn.163189.xyz/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="香港",TVB PLUS
-http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 tvg-name="HOY77" group-title="香港",HOY TV
-http://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="香港",澳视澳门
-http://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1 group-title="香港",澳视卫星
-http://cdn.163189.xyz/live/as/stream.m3u8
-#EXTINF:-1 group-title="香港",重温经典
-http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="香港",TVB J1
-http://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 group-title="香港",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 group-title="香港",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-
 #EXTINF:-1 tvg-name="翡翠台" group-title="香港",翡翠台
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台2" group-title="香港",翡翠台
@@ -214,6 +193,8 @@ https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fc
 https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台5" group-title="香港",翡翠台
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台6" group-title="香港",翡翠台
+http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="无线新闻" group-title="香港",无线新闻
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="无线新闻2" group-title="香港",无线新闻
@@ -234,7 +215,10 @@ https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tv
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="TVB Plus2" group-title="香港",TVB Plus
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-
+#EXTINF:-1 group-title="香港",TVB Plus
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="香港",TVB J1
+http://cdn3.163189.xyz/live/j1/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV" group-title="香港",VIUTV
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="VIUTV2" group-title="香港",VIUTV
@@ -243,6 +227,10 @@ https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=vi
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="HOY TV2" group-title="香港",HOY TV
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="HOY77" group-title="香港",HOY TV
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="香港",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="香港",凤凰中文
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文2" group-title="香港",凤凰中文
@@ -251,6 +239,8 @@ https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fh
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯2" group-title="香港",凤凰资讯
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="香港",凤凰香港
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港2" group-title="香港",凤凰香港
@@ -263,10 +253,18 @@ https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=cw
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="广东体育" group-title="香港",广东体育
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="香港",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="香港",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" group-title="香港",澳视澳门
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="澳视卫星" group-title="香港",澳视卫星
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="香港",澳视澳门
+http://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 group-title="香港",澳视卫星
+http://cdn.163189.xyz/live/as/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK31" group-title="香港",RTHK31
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-name="RTHK32" group-title="香港",RTHK32
@@ -279,7 +277,8 @@ https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/8tv/stream.m3u
 https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-name="CH8" group-title="香港",CH8
 https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-name="CHU" group-title="香港",CHU
+#EXTINF:-1 group-title="香港",重温经典
+http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台" group-title="香港",华丽翡翠台
 https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-name="TVB星河" group-title="香港",TVB星河
